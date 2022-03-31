@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25d3bb70-be93-4523-8a4c-41561e81f681" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>page</find>
+      <find>humus</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1YVdqdTRdZkVJkbJEs6dUc1CUHd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586398562119" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/Images" />
+      <recent name="$PROJECT_DIR$/../Images" />
+      <recent name="$PROJECT_DIR$/src/wordSounds" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Backgrounds" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/ButtonImages" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/ButtonsImages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainApp">
+    <configuration name="MainApp" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="10" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main.MainApp" />
+      <module name="ABCAnimals" />
+      <option name="VM_PARAMETERS" value="--module-path $USER_HOME$/javafx-sdk-15/lib --add-modules=javafx.controls,javafx.media" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileCheck.Test" />
+      <module name="ABCAnimals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainApp" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25d3bb70-be93-4523-8a4c-41561e81f681" name="Default Changelist" comment="" />
+      <created>1583031887146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583031887146</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="112" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1648693520428">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state x="112" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.807@0.25.1440.807" timestamp="1648693162619" />
+    <state x="112" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.809@0.25.1440.809" timestamp="1648693520428" />
+    <state x="419" y="303" key="DetectedRootsChooserDialog" timestamp="1648693194401">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state x="419" y="303" key="DetectedRootsChooserDialog/0.25.1440.807@0.25.1440.807" timestamp="1648693194401" />
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom" timestamp="1648693883613">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.25.1440.807@0.25.1440.807" timestamp="1648693883613" />
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.25.1440.809@0.25.1440.809" timestamp="1648693524232" />
+    <state width="1398" height="204" key="GridCell.Tab.0.center" timestamp="1648693883611">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.center/0.25.1440.807@0.25.1440.807" timestamp="1648693883611" />
+    <state width="1398" height="204" key="GridCell.Tab.0.center/0.25.1440.809@0.25.1440.809" timestamp="1648693524231" />
+    <state width="1398" height="204" key="GridCell.Tab.0.left" timestamp="1648693883610">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.left/0.25.1440.807@0.25.1440.807" timestamp="1648693883610" />
+    <state width="1398" height="204" key="GridCell.Tab.0.left/0.25.1440.809@0.25.1440.809" timestamp="1648693524230" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right" timestamp="1648693883612">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.right/0.25.1440.807@0.25.1440.807" timestamp="1648693883612" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right/0.25.1440.809@0.25.1440.809" timestamp="1648693524232" />
+    <state x="136" y="25" key="SettingsEditor" timestamp="1648693204514">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state x="136" y="25" key="SettingsEditor/0.25.1440.807@0.25.1440.807" timestamp="1648693204514" />
+  </component>
+</project>
